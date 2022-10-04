@@ -13,6 +13,6 @@ Mr. Faakye Konadu Samuel is a data analyst and helps organisations make data-dri
 CONTACT:
 Tel: +233245938995
 
-Email: konadufaakye@gmail.com
+Email: 'konadufaakye@gmail.com'
 
 
