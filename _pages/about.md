@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Mr. Faakye Konadu Samuel is a data analyst and helps organisations make data-driven decisions. He is very fluent in programming languages like R, Python, SQL, Microsoft PowerBI, Stata, and Eviews. He is also a chartered economist and holds two masters' degrees;
+Mr. Faakye Konadu Samuel is a data analyst. He is very fluent in programming languages like R, Python, SQL, Microsoft PowerBI, Stata, and Eviews. He is also a chartered economist and holds two masters' degrees;
 
 * Master of Science in Financial Economics-Ghana Institute of Management and Public Administration-Ghana.
 
