@@ -38,9 +38,10 @@ baseurl: "/myportfoliosite" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
-  social_links:
-    twitter: fastdotai
-    github: fastai
+#  social_links:
+#    twitter: fastdotai
+ #   github: fastai
+     linkedin: https://www.linkedin.com/in/samuel-faakye-konadu-ce-cba-cbc-msc-mba-extd-hnd-0638a098
 
 # Set this to true to get LaTeX math equation support
 use_math: true
